@@ -1,5 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davibtonon&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https:/[](url)/github-readme-stats.vercel.app/api/top-langs/?username=davibtonon)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center" >
+   <a href="https://github.com/davibtonon">
+  <img  src="https://github-readme-stats.vercel.app/api?username=davibtonon&count_private=true&show_icons=true&theme=synthwave"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davibtonon&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <i class="devicon-css3-plain-wordmark colored"></i>
