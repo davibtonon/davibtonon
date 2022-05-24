@@ -3,7 +3,7 @@
 
 Tenho 26 anos, moro na Serra/ES, sempre gostei de 'coisas de computador e tecnologia'. Sou iniciante na área de programação e estou em transição de carreira.Como tenho interesse em ser desenvolvedor backend/fullstack estou estudando Python/Django na Alura.
 
-<div>
+<div style="display: inline">
    <a href="https://github.com/davibtonon">
   <img src="https://github-readme-stats.vercel.app/api?username=davibtonon&count_private=true&show_icons=true&theme=synthwave"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davibtonon&layout=compact&langs_count=7&theme=synthwave"/>
