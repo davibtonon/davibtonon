@@ -21,7 +21,8 @@ Tenho 26 anos, moro na Serra/ES, sempre gostei de 'coisas de computador e tecnol
 
 ##
 <p align="center">
-   <a href="https://github.com/davibtonon">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davibtonon&layout=compact&langs_count=7&theme=synthwave"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davibtonon&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/davibtonon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davibtonon&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davibtonon&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+</a>
 </p>
