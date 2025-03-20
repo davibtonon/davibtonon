@@ -1,7 +1,7 @@
 ## Davi Tonon
 ### Hello, Devs... 
 
-Tenho 26 anos, moro na Serra/ES, sempre gostei de 'coisas de computador e tecnologia'. Sou iniciante na área de programação e estou em transição de carreira.Como tenho interesse em ser desenvolvedor backend/fullstack estou estudando Python/Django na Alura.
+Tenho 26 anos, sempre gostei de 'coisas de computador e tecnologia'. Sou iniciante na área de programação e estou em transição de carreira.
 
 
  ### 🖥️ Ferramentas e Tecnologias:
